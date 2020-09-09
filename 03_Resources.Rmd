@@ -1,0 +1,43 @@
+#Resources
+We've created handy, though certainly incomplete, list of resources for data librarians. While many of these resources are geared torward new practitioners, you may find yourself references others frequently. 
+
+##Portals / other
+```{r portals, echo = FALSE, fig.cap = 'A figure caption.'}
+resources<- readxl::read_xlsx("data.xlsx" ,sheet="resources")
+resources<-resources[resources$type == "Portals / Other",]
+knitr::kable(
+  resources[, c(1:2,4)], booktabs = TRUE,
+  caption = 'Useful portals for data librarians.'
+)
+```
+
+##Self-taught lesson
+```{r lessons, echo = FALSE, fig.cap = 'A figure caption.'}
+resources<- readxl::read_xlsx("data.xlsx" ,sheet="resources")
+resources<-resources[resources$type == "Self-taught lesson",]
+knitr::kable(
+  resources[, c(1:2,4)], booktabs = TRUE,
+  caption = 'Useful self-taught lessons for data librarians.'
+)
+```
+
+##Books
+```{r books, echo = FALSE, fig.cap = 'A figure caption.'}
+resources<- readxl::read_xlsx("data.xlsx" ,sheet="resources")
+resources<-resources[resources$type == "Book",]
+knitr::kable(
+  resources[, c(1:2,4)], booktabs = TRUE,
+  caption = 'Useful books for data librarians.'
+)
+```
+
+##Articles
+```{r articles, echo = FALSE, fig.cap = 'A figure caption.'}
+resources<- readxl::read_xlsx("data.xlsx" ,sheet="resources")
+resources<-resources[resources$type == "Article / Journal article",]
+knitr::kable(
+  resources[, c(1:2,4)], booktabs = TRUE,
+  caption = 'Useful articles for data librarians.'
+)
+```
+
