@@ -16,4 +16,4 @@ rmd_files: ["index.rmd", "Roadmap.Rmd", "Find_people.Rmd"]
 ---
 
 # Intro - Hello new data librarians! {#intro}
-Welcome new and aspiring data librarians! We've curated resources to help build skills and make connections. Are you just starting a new position ? Check out the "Roadmap" section for ideas for how to sketch out what a new data librarian will want to do what to do in the first months. Want to build skills or meet people like you? Check out the networking and resources section.
+Welcome new and aspiring data librarians! We've curated resources to help build skills and make connections. Are you just starting a new position? Check out the __[Roadmap](#roadmap)__ section for ideas for how to sketch out what a new data librarian will want to do what to do in the first months. Want to build skills or meet people like you? Check out the __[Networking](#networking)__ and __[Resources](#resources)__ sections.

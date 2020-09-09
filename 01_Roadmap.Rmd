@@ -23,7 +23,7 @@ If you've just been hired as a data librarian, finding your way doesn't need to 
 
 
 ##Skill up
-- Read articles from our [Annotated Bibliography]
+- Read articles from our [Resources](#resources) section
 - Look through the curated training materials and use the ones that make the most sense for your position
 - Watch for webinars/other online trainings on the listservs you subscribe to
 - Find your community beyond your institution
