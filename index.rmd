@@ -1,5 +1,5 @@
 ---
-title: "Resources for new data librarians"
+title: "Materials for new data librarians"
 author: "D. Christensen and R. Clement"
 date: "`r Sys.Date()`"
 site: bookdown::site
